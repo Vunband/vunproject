@@ -6,14 +6,20 @@
   body {
     font-family: "Montserrat";
   }
+
+  
   section {
-    height: 100vh;
-    width: 100%;
     background-color: aliceblue;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+  }
+  .vid {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 2px black;
   }
   .container {
     width: 90%;
